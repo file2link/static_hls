@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:11.520000,
+https://cdn.jsdelivr.net/gh/valuecdn/valuefile@master/close/hls/koudai/close0.ts
+#EXTINF:7.480000,
+https://cdn.jsdelivr.net/gh/valuecdn/valuefile@master/close/hls/koudai/close1.ts
+#EXT-X-ENDLIST
